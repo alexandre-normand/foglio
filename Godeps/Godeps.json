@@ -1,0 +1,93 @@
+{
+	"ImportPath": "github.com/alexandre-normand/foglio",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/alecthomas/template",
+			"Rev": "a0175ee3bccc567396460bf5acd36800cb10c49c"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/template/parse",
+			"Rev": "a0175ee3bccc567396460bf5acd36800cb10c49c"
+		},
+		{
+			"ImportPath": "github.com/alecthomas/units",
+			"Rev": "6b4e7dc5e3143b85ea77909c72caf89416fc2915"
+		},
+		{
+			"ImportPath": "github.com/alexkappa/mustache",
+			"Rev": "069f6bf777567ad749b9d0a41bcc836f1b799a99"
+		},
+		{
+			"ImportPath": "github.com/dropbox/dropbox-sdk-go-unofficial/dropbox",
+			"Comment": "v2.1.0",
+			"Rev": "3620be11411ddb30351ae33ac2ac34c16e13e66b"
+		},
+		{
+			"ImportPath": "github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/async",
+			"Comment": "v2.1.0",
+			"Rev": "3620be11411ddb30351ae33ac2ac34c16e13e66b"
+		},
+		{
+			"ImportPath": "github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/file_properties",
+			"Comment": "v2.1.0",
+			"Rev": "3620be11411ddb30351ae33ac2ac34c16e13e66b"
+		},
+		{
+			"ImportPath": "github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/files",
+			"Comment": "v2.1.0",
+			"Rev": "3620be11411ddb30351ae33ac2ac34c16e13e66b"
+		},
+		{
+			"ImportPath": "github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/sharing",
+			"Comment": "v2.1.0",
+			"Rev": "3620be11411ddb30351ae33ac2ac34c16e13e66b"
+		},
+		{
+			"ImportPath": "github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/team_common",
+			"Comment": "v2.1.0",
+			"Rev": "3620be11411ddb30351ae33ac2ac34c16e13e66b"
+		},
+		{
+			"ImportPath": "github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/team_policies",
+			"Comment": "v2.1.0",
+			"Rev": "3620be11411ddb30351ae33ac2ac34c16e13e66b"
+		},
+		{
+			"ImportPath": "github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/users",
+			"Comment": "v2.1.0",
+			"Rev": "3620be11411ddb30351ae33ac2ac34c16e13e66b"
+		},
+		{
+			"ImportPath": "github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/users_common",
+			"Comment": "v2.1.0",
+			"Rev": "3620be11411ddb30351ae33ac2ac34c16e13e66b"
+		},
+		{
+			"ImportPath": "github.com/mitchellh/go-homedir",
+			"Rev": "b8bc1bf767474819792c23f32d8286a45736f1c6"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "97edce0b2e423f6a8debb459af47f4a3cb4ff954"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context/ctxhttp",
+			"Rev": "97edce0b2e423f6a8debb459af47f4a3cb4ff954"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2",
+			"Rev": "13449ad91cb26cb47661c1b080790392170385fd"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2/internal",
+			"Rev": "13449ad91cb26cb47661c1b080790392170385fd"
+		},
+		{
+			"ImportPath": "gopkg.in/alecthomas/kingpin.v2",
+			"Comment": "v2.2.5",
+			"Rev": "1087e65c9441605df944fb12c33f0fe7072d18ca"
+		}
+	]
+}
